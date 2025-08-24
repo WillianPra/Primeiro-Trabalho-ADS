@@ -1,8 +1,8 @@
 # Primeiro-Trabalho-ADS
 
             🚀 Estudo do mercado brasileiro de desenvolvimento web
-No curso de Design Profissional (ADS - Cruzeiro do Sul), conduzimos um estudo sobre o mercado de Desenvolvimento Web no Brasil.
-🔎 Você já se questionou sobre quais competências são mais apreciadas para quem trabalha na área e qual é a média salarial?
+No curso de Design Profissional (ADS - Cruzeiro do Sul), conduzimos um estudo sobre o mercado de Desenvolvimento Web no Brasil.<br>
+🔎 Você já se questionou sobre quais competências são mais apreciadas para quem trabalha na área e qual é a média salarial?<br>
 💰 Salário médio - Desenvolvimento Web (Brasil)
 🎓 Estagiário → Salário de R$ 1.500 a R$ 1.800
 💻 Júnior → Salário de R$ 3.200 a R$ 4.200
